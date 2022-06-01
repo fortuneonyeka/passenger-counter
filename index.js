@@ -14,4 +14,4 @@ function save() {
     countEl.textContent = count
 }
 
-console.log("Let's count people on the subway!")
+
